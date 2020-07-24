@@ -1,5 +1,4 @@
-# buscador-node-mongo
-Exemplo simples de motor de busca com Node.js e MongoDB, apresentado em seminário online (2020).
+
 
 # Como executar
 1. Suba uma instância de MongoDB e importe o arquivo mflix.json em uma base netflix, coleção movies.
